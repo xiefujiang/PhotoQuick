@@ -1,0 +1,12 @@
+# Build output
+bin/
+obj/
+
+# User and IDE files
+.vs/
+*.user
+*.suo
+
+# Local helper scripts
+clear_photoquick_state.bat
+compile_and_run.bat
